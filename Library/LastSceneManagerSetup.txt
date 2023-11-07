@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Jumper/Scenes/Index.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
